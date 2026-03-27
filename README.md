@@ -18,7 +18,7 @@ This project analyzes customer shopping behavior using Python for data cleaning,
 
 ## 🛠️ Tools & Technologies
 
-* Python (Pandas, NumPy)
+* Python (Pandas)
 * SQL (PostgreSQL)
 * Power BI
 * DAX (Data Analysis Expressions)
@@ -76,7 +76,7 @@ This project analyzes customer shopping behavior using Python for data cleaning,
 
 ## 📷 Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/customer_behaviour.png)
 
 ---
 

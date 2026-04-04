@@ -74,12 +74,6 @@ This project analyzes customer shopping behavior using Python for data cleaning,
 
 ---
 
-## 📷 Dashboard Preview
-
-![Dashboard](screenshots/customer_behaviour.png)
-
----
-
 ## 📂 Project Structure
 
 * Data Cleaning Notebook (.ipynb)

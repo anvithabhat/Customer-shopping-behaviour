@@ -84,6 +84,10 @@ This project analyzes customer shopping behavior using Python for data cleaning,
 
 ---
 
+## Dashboard
+
+![Dashboard](customer_behaviour.png)
+
 ## 🚀 Conclusion
 
 This project demonstrates an end-to-end data analysis workflow by combining Python, SQL, and Power BI to extract meaningful insights from raw data and support business decision-making.
